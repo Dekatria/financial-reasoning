@@ -1,1 +1,1 @@
-# financial-reasoning
+# Enhancing Financial Reasoning via Program-of-Thoughts Learning
